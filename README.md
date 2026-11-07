@@ -108,36 +108,44 @@ School payment management app covering enrollments, monthly fees and payment tra
 
 <div align="center">
 
-<a href="https://github.com/brahimbouttar/PortailSuiviDoctorat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brahimbouttar&repo=PortailSuiviDoctorat&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=6B7280" alt="PortailSuiviDoctorat" />
-</a>
-<a href="https://github.com/brahimbouttar/EcommerceApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brahimbouttar&repo=EcommerceApp&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=6B7280" alt="EcommerceApp" />
-</a>
-
-<a href="https://github.com/brahimbouttar/ImageDetectAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brahimbouttar&repo=ImageDetectAI&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=6B7280" alt="ImageDetectAI" />
-</a>
-<a href="https://github.com/brahimbouttar/React_Next_Vue_TPs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brahimbouttar&repo=React_Next_Vue_TPs&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=6B7280" alt="React_Next_Vue_TPs" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/brahimbouttar/PortailSuiviDoctorat">🎓 PortailSuiviDoctorat</a></h4>
+      <p>Doctoral journey management platform: registration, re-registration and follow-up of files, with role-based access.</p>
+      <img src="https://img.shields.io/github/languages/top/brahimbouttar/PortailSuiviDoctorat?style=flat-square&color=2563EB" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/brahimbouttar/PortailSuiviDoctorat?style=flat-square&color=0F2A52" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/brahimbouttar/EcommerceApp">🛒 EcommerceApp</a></h4>
+      <p>E-commerce app with authentication, category browsing, cart, orders and an admin dashboard.</p>
+      <img src="https://img.shields.io/github/languages/top/brahimbouttar/EcommerceApp?style=flat-square&color=2563EB" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/brahimbouttar/EcommerceApp?style=flat-square&color=0F2A52" alt="Last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/brahimbouttar/ImageDetectAI">🤖 ImageDetectAI</a></h4>
+      <p>AI-based image detection project built with Java.</p>
+      <img src="https://img.shields.io/github/languages/top/brahimbouttar/ImageDetectAI?style=flat-square&color=2563EB" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/brahimbouttar/ImageDetectAI?style=flat-square&color=0F2A52" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/brahimbouttar/React_Next_Vue_TPs">⚛️ React_Next_Vue_TPs</a></h4>
+      <p>All my practical work from learning React JS, Next JS and Vue JS.</p>
+      <img src="https://img.shields.io/github/languages/top/brahimbouttar/React_Next_Vue_TPs?style=flat-square&color=2563EB" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/brahimbouttar/React_Next_Vue_TPs?style=flat-square&color=0F2A52" alt="Last commit" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-## 📊 GitHub stats
+## 📊 Activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brahimbouttar&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=2563EB&text_color=C9D1D9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=brahimbouttar&show_icons=true&theme=transparent&hide_border=true&title_color=0F2A52&icon_color=2563EB&text_color=334155" alt="GitHub stats" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brahimbouttar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=60A5FA&text_color=C9D1D9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahimbouttar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=0F2A52&text_color=334155" alt="Top languages" height="170" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=brahimbouttar&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=60A5FA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
